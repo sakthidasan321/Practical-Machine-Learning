@@ -1,37 +1,4 @@
----
-author: "Tom Lous"
-date: "15 May 2016"
-output:
-  html_document:
-    keep_md: yes
-  pdf_document: default
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, warning=FALSE, message=FALSE, fig.width=10, fig.height=5)
-options(width=120)
-library(plyr)
-library(dplyr)
-library(randomForest)
-library(rpart)
-library(AppliedPredictiveModeling)
-library(caret)
-library(ElemStatLearn)
-library(pgmm)
-library(rpart)
-library(gbm)
-library(lubridate)
-library(forecast)
-library(e1071)
-
-library(mgcv)
-library(nlme)
-library(MASS)
-library(elasticnet)
-library(lars)
-set.seed(19790811)
-```
-
+-
 # Quiz 4
 ## Question 1
 
