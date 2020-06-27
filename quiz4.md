@@ -1,6 +1,3 @@
-Tom Lous  
-15 May 2016  
-
 
 
 # Quiz 4
